@@ -32,11 +32,7 @@ This visualizer is an upgraded JavaScript version of the Python-based DEM visual
 ---
 
 ## ▶️ Running the Visualizer
-Open the HTML file in any modern browser:
-
-```
-index.html
-```
+Open the HTML file in any modern browser.
 
 Upload any `.tif` / `.tiff` DEM file via the interface.
 
