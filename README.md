@@ -1,5 +1,5 @@
 # 🗺️ TerraVision – Terrain Analysis Platform
-A S-a-a-S for generating **2D elevation maps**, **3D terrain surfaces**, **erosion-risk maps**, and **landform classifications** directly from **GeoTIFF DEM files** — all using **pure JavaScript**, Plotly, and GeoTIFF.js.
+A SssS platform for generating **2D elevation maps**, **3D terrain surfaces**, **erosion-risk maps**, and **landform classifications** directly from **GeoTIFF DEM files** — all using **vanilla JavaScript**, Plotly, and GeoTIFF.js.
 
 This visualizer (SaaS) is an upgraded JavaScript version of the Python-based DEM visualizer I have already published on GitHub.
 
